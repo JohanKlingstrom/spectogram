@@ -1,0 +1,23 @@
+{
+  "name": "spectogram",
+  "version": "1.0.0",
+  "description": "An interactive spectogram using Three.js and GLSL shaders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanKlingstrom/spectogram.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanKlingstrom/spectogram/issues"
+  },
+  "homepage": "https://github.com/JohanKlingstrom/spectogram#readme",
+  "dependencies": {
+    "three": "^0.141.0"
+  }
+}
